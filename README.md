@@ -2,7 +2,7 @@
 #### Technical Skills: Python (Jupyter notebooks), Spark (Databricks), R, SQL, Java, C, SAS, Google Cloud Platform, Tableau, Alteryx, ERWin, Microsoft Office Suite, Gephi
 
 ## Education
-- M.S. Business Intelligence & Analytics in Data Science & Artificial Intelligence Concentration | Stevens Institute of Technology (_May 2021_)
+- M.S. Business Intelligence & Analytics in Data Science & Artificial Intelligence Concentration | Stevens Institute of Technology (_May 2024_)
 - B.S. Computer Science & System | University of Washington (_December 2021_)
 
 ## Work Experience
