@@ -1,0 +1,97 @@
+﻿Location_name,Dataset_size,Model,RMSE,Duration,Label
+London,10%,Linear Regression,156620.3858,1581.937842,Local
+Non_London,10%,Linear Regression,51052.18059,1817.321033,Local
+London,25%,Linear Regression,156711.5413,2065.754975,Local
+Non_London,25%,Linear Regression,51136.31901,2301.714397,Local
+London,50%,Linear Regression,156758.8162,2554.446598,Local
+Non_London,50%,Linear Regression,51040.35747,2796.092249,Local
+London,100%,Linear Regression,156844.2126,3052.815288,Local
+Non_London,100%,Linear Regression,51005.07218,3812.669344,Local
+London,10%,Random Forest Regression,156688.747,209.811893,Local
+Non_London,10%,Random Forest Regression,49390.49039,183.0940118,Local
+London,25%,Random Forest Regression,156441.339,250.9423993,Local
+Non_London,25%,Random Forest Regression,49618.83944,218.375978,Local
+London,50%,Random Forest Regression,156677.4491,310.8290451,Local
+Non_London,50%,Random Forest Regression,49476.45487,266.4424388,Local
+London,100%,Random Forest Regression,156620.2532,424.246978,Local
+Non_London,100%,Random Forest Regression,49510.34826,357.5820704,Local
+London,10%,Gradient Boosting Machine,142880.3799,256.4067435,Local
+Non_London,10%,Gradient Boosting Machine,47460.39825,251.4161055,Local
+London,25%,Gradient Boosting Machine,142337.2428,270.6955862,Local
+Non_London,25%,Gradient Boosting Machine,47650.32387,261.3313584,Local
+London,50%,Gradient Boosting Machine,142354.6106,289.0059547,Local
+Non_London,50%,Gradient Boosting Machine,47517.02504,266.3775265,Local
+London,100%,Gradient Boosting Machine,142730.2062,298.9127774,Local
+Non_London,100%,Gradient Boosting Machine,47486.85875,277.2061782,Local
+London,10%,Linear Regression,1955938.244,129.8473859,Node2
+Non_London,10%,Linear Regression,50751.64553,186.3270588,Node2
+London,25%,Linear Regression,2828852.382,132.0546262,Node2
+Non_London,25%,Linear Regression,50966.24257,183.7273638,Node2
+London,50%,Linear Regression,2253744.308,129.5378218,Node2
+Non_London,50%,Linear Regression,51038.65211,174.1996887,Node2
+London,100%,Linear Regression,2495132.891,115.1836865,Node2
+Non_London,100%,Linear Regression,51079.87474,157.7056561,Node2
+London,10%,Random Forest Regression,2931573.061,123.6706827,Node2
+Non_London,10%,Random Forest Regression,49351.47338,91.6000843,Node2
+London,25%,Random Forest Regression,2417059.129,110.4451151,Node2
+Non_London,25%,Random Forest Regression,49283.37871,114.6130843,Node2
+London,50%,Random Forest Regression,1760073.001,154.4793506,Node2
+Non_London,50%,Random Forest Regression,49512.7334,104.4296708,Node2
+London,100%,Random Forest Regression,2520269.743,180.3663228,Node2
+Non_London,100%,Random Forest Regression,49643.09605,144.9992309,Node2
+London,10%,Gradient Boosting Machine,2153189.529,127.8487144,Node2
+Non_London,10%,Gradient Boosting Machine,47251.72568,117.7271202,Node2
+London,25%,Gradient Boosting Machine,1806663.189,137.0719588,Node2
+Non_London,25%,Gradient Boosting Machine,47475.45476,107.7041144,Node2
+London,50%,Gradient Boosting Machine,1956559.456,179.1873679,Node2
+Non_London,50%,Gradient Boosting Machine,47705.48553,99.50988889,Node2
+London,100%,Gradient Boosting Machine,2279131.763,193.1846302,Node2
+Non_London,100%,Gradient Boosting Machine,47436.39074,90.76829863,Node2
+London,10%,Linear Regression,3392270.751,101.2222772,Node4
+Non_London,10%,Linear Regression,50764.20782,161.1139569,Node4
+London,25%,Linear Regression,2221018.499,229.2545352,Node4
+Non_London,25%,Linear Regression,50964.84301,283.0059175,Node4
+London,50%,Linear Regression,2324837.764,349.537966,Node4
+Non_London,50%,Linear Regression,50884.35788,405.7117658,Node4
+London,100%,Linear Regression,2427280.593,468.2819664,Node4
+Non_London,100%,Linear Regression,51069.18008,514.1394687,Node4
+London,10%,Random Forest Regression,2319088.272,117.1897874,Node4
+Non_London,10%,Random Forest Regression,49645.77841,59.46556473,Node4
+London,25%,Random Forest Regression,2190991.613,81.88581491,Node4
+Non_London,25%,Random Forest Regression,49738.09817,63.25120401,Node4
+London,50%,Random Forest Regression,1815744.16,108.4496868,Node4
+Non_London,50%,Random Forest Regression,49310.28752,81.12543869,Node4
+London,100%,Random Forest Regression,2265235.658,157.0388494,Node4
+Non_London,100%,Random Forest Regression,49343.99887,110.9245155,Node4
+London,10%,Gradient Boosting Machine,2515831.2,124.8714507,Node4
+Non_London,10%,Gradient Boosting Machine,47494.21458,69.87942362,Node4
+London,25%,Gradient Boosting Machine,1804846.219,78.83332992,Node4
+Non_London,25%,Gradient Boosting Machine,47374.90932,62.30836964,Node4
+London,50%,Gradient Boosting Machine,2328592.348,78.62673664,Node4
+Non_London,50%,Gradient Boosting Machine,47551.21876,62.15807509,Node4
+London,100%,Gradient Boosting Machine,2342758.929,81.18660641,Node4
+Non_London,100%,Gradient Boosting Machine,47628.44725,60.63321018,Node4
+London,10%,Linear Regression,2189932.183,90.1150589,Node6
+Non_London,10%,Linear Regression,50956.4923,146.8630087,Node6
+London,25%,Linear Regression,2462258.904,193.6747942,Node6
+Non_London,25%,Linear Regression,50983.197,229.0876431,Node6
+London,50%,Linear Regression,2374498.476,271.2677455,Node6
+Non_London,50%,Linear Regression,50721.93371,307.2191365,Node6
+London,100%,Linear Regression,2516059.73,349.7019446,Node6
+Non_London,100%,Linear Regression,51134.75639,381.8413415,Node6
+London,10%,Random Forest Regression,1147429.864,124.6947432,Node6
+Non_London,10%,Random Forest Regression,49329.09795,83.21244717,Node6
+London,25%,Random Forest Regression,2319467.573,62.27482414,Node6
+Non_London,25%,Random Forest Regression,49553.80389,42.35645628,Node6
+London,50%,Random Forest Regression,2098528.091,64.62698293,Node6
+Non_London,50%,Random Forest Regression,49414.77542,51.17870164,Node6
+London,100%,Random Forest Regression,2107765.094,82.85401106,Node6
+Non_London,100%,Random Forest Regression,49296.55072,63.80306673,Node6
+London,10%,Gradient Boosting Machine,2144789.657,135.3414714,Node6
+Non_London,10%,Gradient Boosting Machine,47676.55468,74.62027717,Node6
+London,25%,Gradient Boosting Machine,2243701.965,61.39037013,Node6
+Non_London,25%,Gradient Boosting Machine,47142.11038,45.04755807,Node6
+London,50%,Gradient Boosting Machine,2056672.499,55.21663356,Node6
+Non_London,50%,Gradient Boosting Machine,47501.78446,46.58398485,Node6
+London,100%,Gradient Boosting Machine,2366327.098,54.55474758,Node6
+Non_London,100%,Gradient Boosting Machine,47428.34447,44.27605581,Node6
