@@ -92,6 +92,7 @@ fftyp_ln = df_V_ln.randomSplit([0.5, 0.5])[0]
 ttyfp_ln = fftyp_ln.randomSplit([0.5, 0.5])[0]
 tenp_ln = ttyfp_ln.randomSplit([0.4, 0.6])[0]
 
+# Tried 10%, 25%, 50%, 100% of data for cloud computing effciency comparsion
 subsets_ln = {
     "10%": tenp_ln,
     "25%": ttyfp_ln,
@@ -111,6 +112,7 @@ fftyp = df_V.randomSplit([0.5, 0.5])[0]
 ttyfp = fftyp.randomSplit([0.5, 0.5])[0]
 tenp = ttyfp.randomSplit([0.4, 0.6])[0]
 
+# Tried 10%, 25%, 50%, 100% of data for cloud computing effciency comparsion
 subsets = {
     "10%": tenp,
     "25%": ttyfp,
@@ -159,7 +161,7 @@ def train_and_evaluate_gbm(train_df, test_df, params, dataset_name, loc_name):
 # Best parameters tested out
 params_gbm = {'maxIter': 10, 'maxDepth': 5,'stepSize': 0.1}
 
-# Runs model on different dataset
+# Runs model on different dataset for cloud computing effciency comparsion
 results_overall_gbm = []
 
 results_overall_gbm.extend(train_and_evaluate_gbm(train_10_ln, test_10_ln, params_gbm, "10%","London"))
