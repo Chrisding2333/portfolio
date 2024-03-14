@@ -94,6 +94,7 @@ fftyp_ln = df_V_ln.randomSplit([0.5, 0.5])[0]
 ttyfp_ln = fftyp_ln.randomSplit([0.5, 0.5])[0]
 tenp_ln = ttyfp_ln.randomSplit([0.4, 0.6])[0]
 
+# Tried 10%, 25%, 50%, 100% of data for cloud computing effciency comparsion
 subsets_ln = {
     "10%": tenp_ln,
     "25%": ttyfp_ln,
@@ -113,6 +114,7 @@ fftyp = df_V.randomSplit([0.5, 0.5])[0]
 ttyfp = fftyp.randomSplit([0.5, 0.5])[0]
 tenp = ttyfp.randomSplit([0.4, 0.6])[0]
 
+# Tried 10%, 25%, 50%, 100% of data for cloud computing effciency comparsion
 subsets = {
     "10%": tenp,
     "25%": ttyfp,
