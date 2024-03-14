@@ -3,6 +3,7 @@
 
 ## Education
 **M.S. Business Intelligence & Analytics in Data Science & AI Concentration | Stevens Institute of Technology (_May 2024_)**
+
 **B.S. Computer Science & System | University of Washington (_December 2021_)**
 
 ## Work Experience
