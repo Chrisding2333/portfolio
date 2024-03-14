@@ -2,27 +2,29 @@
 #### Technical Skills: Python (Jupyter notebooks), Spark (Databricks), R, SQL, Java, C, SAS, Google Cloud Platform, Tableau, Alteryx, ERWin, Microsoft Office Suite, Gephi
 
 ## Education
-M.S. **Business Intelligence & Analytics** in Data Science & AI Concentration @ Stevens Institute of Technology (_May 2024_)
+M.S. **Business Intelligence & Analytics** @ Stevens Institute of Technology (_May 2024_)
+- Concentration in Data Science & AI 
 
 B.S. **Computer Science & System** @ University of Washington (_December 2021_)
+- Dean's List (_2021_)
 
 ## Work Experience
 **Data Analyst Assistant@Hisense USA, Department of Business Strategy (_July 2023 - September 2023_)**
 - Improved existing data infrastructure by transforming 1 million+ records of sales data from business partners to ad hoc reports containing 50+ key performance metrics (KPIs) in Python, enhancing decision-making regarding market trends
-<a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/ad-hocReportGoogleTVSummary.ipynb"> ad hoc report </a>
-https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/ad-hocReportValueMap.ipynb
+<a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/ad-hocReportGoogleTVSummary.ipynb"> Ad-hoc Report Example 1 </a>, <a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/ad-hocReportValueMap.ipynb"> Ad-hoc Report Value Map </a>
 - Automated the daily/weekly detailed oriented sales monitoring dashboard in Python to report MoM/YoY market share growth analytics to the broader organization. Procedure reduced the manual workload by 300%
-https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/WeeklyPriceMonitor.ipynb
+<a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/WeeklyPriceMonitor.ipynb"> Sales Growth Dashboards </a>
 - Identified and interpreted abnormal product return rates problem, building solutions with sales team regrading improving post-sale services and delivery options, return rates reduced by 10%
 - Utilized Python BeautifulSoup to scrape 200+ competitor product measurements and pricing trends, assisting marketing team to deliver solution and tailored promotional strategy analytics to match competitor offerings
-https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Data_Mining/WebMining4Prices.ipynb
+<a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Data_Mining/WebMining4Prices.ipynb"> Web Mining for Compeititors' Price </a>
 
 **Data Research Assistant @ Stevens Institute of Technology (_May 2023 - July 2023_)**
 -	Conducted research on related journals regrading to misinformation sharing behavior changes during presidential election, communicate with research group to ensure the data integrity followed research discipline.
 -	Detected key terms of false news origins on 500 Gb+ complex dataset by NLP implementation, aid in research on the spread of misinformation related to political leanings. Expected process time reduced by 80%.
-https://github.com/Chrisding2333/portfolio/tree/main/SIT_RA/1.DataPreprocess
+<a href="https://github.com/Chrisding2333/portfolio/tree/main/SIT_RA/1.DataPreprocess"> Data Process & NLP </a>
 -	Launched a new data governance & validation approach for the user mapping system to examine the most active location of users posting about multiple places to ensure data accuracy and reliability, saved 50% data omission.
-https://github.com/Chrisding2333/portfolio/tree/main/SIT_RA/2.DataGovernance
+<a href="https://github.com/Chrisding2333/portfolio/tree/main/SIT_RA/2.DataGovernance"> Data Governance Using Major Vote System </a>
+
 
 **Graduate Assistant @ Stevens Institute of Technology (_September 2022 - May 2023_)**
 -	Conducted an pattern data analysis of leading US MSBA programs, extracted key statistics course content and formatted it into a reports for the Program Board for developing of a new fundamental statistics course in Python. 
@@ -39,4 +41,4 @@ https://github.com/Chrisding2333/portfolio/tree/main/SIT_RA/2.DataGovernance
 -	Created data pipelines to clean and transform multiple datasets utilizing PySpark/SparkSQL with Databricks.
 -	Implemented StringIndexer and OneHot encoder to transform categorical features into vectors for regresional algorithms (Linear Regression, Random Forest, and Gradient Boosting Machine), average 75% accuracy performed.
 -	Executed deployment of code across various Spark and Google Cloud Platform (GCP) clusters, each with distinct worker nodes, to evaluate and identify the most efficient and accurate configuration.
-https://github.com/Chrisding2333/portfolio/tree/main/Property_Price_Forecasting
+<a href="https://github.com/Chrisding2333/portfolio/tree/main/Property_Price_Forecasting"> Big Data Application Using Spark </a>
