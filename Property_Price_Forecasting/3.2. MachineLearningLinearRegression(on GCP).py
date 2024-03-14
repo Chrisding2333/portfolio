@@ -91,6 +91,7 @@ fftyp_ln = df_V_ln.randomSplit([0.5, 0.5])[0]
 ttyfp_ln = fftyp_ln.randomSplit([0.5, 0.5])[0]
 tenp_ln = ttyfp_ln.randomSplit([0.4, 0.6])[0]
 
+# Tried 10%, 25%, 50%, 100% of data for cloud computing effciency comparsion
 subsets_ln = {
     "10%": tenp_ln,
     "25%": ttyfp_ln,
@@ -111,6 +112,7 @@ fftyp = df_V.randomSplit([0.5, 0.5])[0]
 ttyfp = fftyp.randomSplit([0.5, 0.5])[0]
 tenp = ttyfp.randomSplit([0.4, 0.6])[0]
 
+# Tried 10%, 25%, 50%, 100% of data for cloud computing effciency comparsion
 subsets = {
     "10%": tenp,
     "25%": ttyfp,
@@ -159,7 +161,7 @@ def train_and_evaluate(train_df, test_df, param, dataset_name, loc_name):
 # Best parameters tested out
 param_lr = {'elasticNetParam': 1.0, 'regParam': 0.1, 'maxIter': 100}
 
-# Runs model on different dataset
+# Runs model on different dataset for cloud computing effciency comparsion
 results_overall_lr = []
 results_overall_lr.extend(train_and_evaluate(train_10_ln, test_10_ln, param_lr, "10%", "London"))
 results_overall_lr.extend(train_and_evaluate(train_10, test_10,param_lr,"10%","Non_London"))
