@@ -14,7 +14,7 @@ B.S. **Computer Science & System** @ University of Washington (_December 2021_)
 **Click link for codes** =><a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/ad-hocReportGoogleTVSummary.ipynb"> Ad-hoc Report Example 1 </a>, <a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/ad-hocReportValueMap.ipynb"> Ad-hoc Report Value Map </a>
 - Automated the daily/weekly detailed oriented sales monitoring dashboard in Python to report MoM/YoY market share growth analytics to the broader organization. Procedure reduced the manual workload by 300%
 <a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/WeeklyPriceMonitor.ipynb"> Sales Growth Dashboards </a>
-- Identified and interpreted abnormal product return rates problem, building solutions with sales team regrading improving post-sale services and delivery options, return rates reduced by 10%
+- Identified and interpreted abnormal product return rates problem, building solutions with sales team regrading improving post-sale services and delivery options, saved 20000$ worth product. 
 - Utilized Python BeautifulSoup to scrape 200+ competitor product measurements and pricing trends, assisting marketing team to deliver solution and tailored promotional strategy analytics to match competitor offerings
 <a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Data_Mining/WebMining4Prices.ipynb"> Web Mining for Compeititors' Price </a>
 
@@ -23,7 +23,7 @@ B.S. **Computer Science & System** @ University of Washington (_December 2021_)
 -	Detected key terms of false news origins on 500 Gb+ complex dataset by NLP implementation, aid in research on the spread of misinformation related to political leanings. Expected process time reduced by 80%.
 <a href="https://github.com/Chrisding2333/portfolio/tree/main/SIT_RA/1.DataPreprocess"> Data Process & NLP </a>
 -	Launched a new data governance & validation approach for the user mapping system to examine the most active location of users posting about multiple places to ensure data accuracy and reliability, saved 50% data omission.
-<a href="https://github.com/Chrisding2333/portfolio/tree/main/SIT_RA/2.DataGovernance"> Data Governance Using Major Vote System </a>
+<a href="https://github.com/Chrisding2333/portfolio/tree/main/SIT_RA/2.DataGovernance"> Data Validation Using Major Vote System </a>
 
 
 **Graduate Assistant @ Stevens Institute of Technology (_September 2022 - May 2023_)**
