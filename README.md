@@ -14,7 +14,7 @@ B.S. **Computer Science & System** @ University of Washington (_December 2021_)
 **Click link for codes** =><a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/ad-hocReportGoogleTVSummary.ipynb"> Ad-hoc Report Example 1 </a>, <a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/ad-hocReportValueMap.ipynb"> Ad-hoc Report Value Map </a>
 - Automated the daily/weekly detailed oriented sales monitoring dashboard in Python to report MoM/YoY market share growth analytics to the broader organization. Procedure reduced the manual workload by 300%
 <a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Dashboard/WeeklyPriceMonitor.ipynb"> Sales Growth Dashboards </a>
-- Identified and interpreted abnormal product return rates problem, building solutions with sales team regrading improving post-sale services and delivery options, saved 20000$ worth product. 
+- Identified and interpreted abnormal product return rates problem, building solutions with sales team regarding improving post-sale services and delivery options, saved 20000$ worth product. <a href="https://github.com/Chrisding2333/portfolio/tree/b2f3e9d7adb7ab1f8f399e38205cf3bb4f44136c/Hisense_ProductReturn"> Return Problem Solved by Hypothesis Test </a>
 - Utilized Python BeautifulSoup to scrape 200+ competitor product measurements and pricing trends, assisting marketing team to deliver solution and tailored promotional strategy analytics to match competitor offerings
 <a href="https://github.com/Chrisding2333/portfolio/blob/main/Hisense_Data_Mining/WebMining4Prices.ipynb"> Web Mining for Compeititors' Price </a>
 
